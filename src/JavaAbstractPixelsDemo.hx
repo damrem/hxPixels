@@ -1,7 +1,7 @@
 package ;
 
 import haxe.Timer;
-import hxPixels.Pixels;
+import src.hxpixels.Pixels;
 import java.lang.System;
 import java.javax.swing.JFrame;
 import java.javax.swing.JLabel;

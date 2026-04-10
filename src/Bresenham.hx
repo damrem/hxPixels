@@ -1,5 +1,5 @@
 package;
-import hxPixels.Pixels;
+import src.hxpixels.Pixels;
 
 /**
  * ...

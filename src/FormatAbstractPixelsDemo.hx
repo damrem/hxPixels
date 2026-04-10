@@ -5,7 +5,7 @@ import haxe.io.BytesInput;
 import haxe.io.Path;
 import haxe.Resource;
 import haxe.Timer;
-import hxPixels.Pixels;
+import src.hxpixels.Pixels;
 
 
 enum DataWrapper {

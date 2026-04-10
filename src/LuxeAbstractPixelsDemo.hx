@@ -1,6 +1,6 @@
 
 import haxe.Timer;
-import hxPixels.Pixels;
+import src.hxpixels.Pixels;
 import luxe.Input.Key;
 import luxe.Input.KeyEvent;
 import luxe.Sprite;

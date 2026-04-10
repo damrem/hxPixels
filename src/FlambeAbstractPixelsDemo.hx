@@ -8,7 +8,7 @@ import flambe.asset.Manifest;
 import flambe.display.FillSprite;
 import flambe.display.ImageSprite;
 import haxe.Timer;
-import hxPixels.Pixels;
+import src.hxpixels.Pixels;
 
 #if flash
 @:bitmap("assets/global/galapagosColor.png")

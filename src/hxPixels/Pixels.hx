@@ -1,4 +1,4 @@
-package hxPixels;
+package src.hxpixels;
 
 import haxe.io.Bytes;
 
@@ -366,7 +366,7 @@ abstract Pixels(PixelsData)
 }
 
 
-@:allow(hxPixels.Pixels)
+@:allow(src.hxpixels.Pixels)
 private class PixelsData
 {
 	inline static public var BYTES_PER_PIXEL:Int = 4;

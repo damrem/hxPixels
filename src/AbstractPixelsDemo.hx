@@ -9,7 +9,7 @@ import flash.display.Sprite;
 import flash.events.KeyboardEvent;
 import flash.Lib;
 import haxe.Timer;
-import hxPixels.Pixels;
+import src.hxpixels.Pixels;
 
 #if !openfl
 @:bitmap("assets/global/galapagosColor.png")
